@@ -15,6 +15,11 @@ Please also write (using mocha - preferred, jasmine, or any other framework you 
 
 Make sure you have Node.js, npm/yarn and Meteor installed
 
+Install dependencies:
+```
+meteor npm install
+```
+
 To view demo app:
 ```
 npm run start

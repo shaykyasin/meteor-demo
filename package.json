@@ -2,7 +2,6 @@
   "name": "meteor-demo",
   "private": true,
   "scripts": {
-    "pre-start": "meteor npm install",
     "start": "meteor run",
     "test": "meteor test --driver-package practicalmeteor:mocha"
   },
